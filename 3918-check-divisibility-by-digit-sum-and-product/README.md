@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product">Check Divisibility by Digit Sum and Product</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a positive integer <code>n</code>. Determine whether <code>n</code> is divisible by the <strong>sum </strong>of the following two values:</p>
+<p>You are given a positive integer <code>n</code>. Determine whether <code>n</code> is divisible by the <strong>sum </strong>of the following two values:</p>
 
 <ul>
 	<li>
